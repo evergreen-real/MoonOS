@@ -1,3 +1,6 @@
+; Made with AI 🤦
+
+
 ; Multiboot header constants
 MODULEALIGN equ  1 << 0
 MEMINFO     equ  1 << 1
