@@ -1,6 +1,6 @@
 markdown: kramdown
-title: LineOS
-description: .ino Operating System for your RPi dumbphones.
-url: "https://evergreen-real.github.io"
+title: MoonOS
+description: x86-64 port of LineOS for smartphones.
+url: "https://evergreen-real.github.io/MoonOS"
 plugins:
   - jekyll-sitemap
