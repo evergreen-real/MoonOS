@@ -1,0 +1,6 @@
+markdown: kramdown
+title: LineOS
+description: .ino Operating System for your RPi dumbphones.
+url: "https://evergreen-real.github.io"
+plugins:
+  - jekyll-sitemap
