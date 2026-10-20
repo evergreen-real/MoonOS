@@ -1,6 +1,6 @@
 markdown: kramdown
 title: MoonOS
-description: x86-64 port of LineOS for smartphones.
+description: x86-64 port of LineOS for laptops.
 url: "https://evergreen-real.github.io/MoonOS"
 plugins:
   - jekyll-sitemap
