@@ -1,0 +1,5 @@
+===============
+To Run The QEMU
+===============
+
+Use [qemu-system-x86_64 -drive format=raw,file=boot.bin -nographic]
