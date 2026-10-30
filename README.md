@@ -1,4 +1,4 @@
-# MoonOS
+# MoonOS™
 ___
 An x86 version of LineOS used to make the more Intel CPU-using devices.
 For the original LineOS, visit this link...
